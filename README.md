@@ -26,6 +26,8 @@ Here are a few notable projects I've worked on:
 
 2. **westbengal paddy price prediction** 🎉
 
+3.**E-commerce recommendation system**
+
 
 
 Feel free to explore my repositories to get a better understanding of the projects I've worked on.
